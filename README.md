@@ -8,15 +8,15 @@ Compile with:
 
 
 Generate 1 number:
-> $ ./pins
+> $ ./pins  
 > 8380
 
 Generate 5 numbers:
-> ./pins 5
-> 4657
-> 0934
-> 7211
-> 3488
+> ./pins 5  
+> 4657  
+> 0934  
+> 7211  
+> 3488  
 > 9765
 
 
