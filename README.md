@@ -12,7 +12,7 @@ Generate 1 number:
 > 8380
 
 Generate 5 numbers:
-> ./pins 5  
+> $ ./pins 5  
 > 4657  
 > 0934  
 > 7211  
